@@ -83,4 +83,6 @@ Include your plot here
 Include your sample text prediction here
 
 ## RESULT
-Include your result here
+Thus,an LSTM-based model for recognizing the named entities in the text has been developed successfully.
+.
+
